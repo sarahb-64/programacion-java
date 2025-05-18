@@ -55,7 +55,7 @@ description: >- # this means to ignore newlines until "url:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sarahb_64
 github_repo:  sarahb_64/programacion-java
-defaults: programacion-java
+defaults: /programacion-java
   - scope:
       path: "assets/img"
     values:
